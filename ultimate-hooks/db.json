@@ -1,0 +1,43 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are great",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "jajajja!!! It's fun",
+      "id": 3
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "Pepi Miller",
+      "number": "045-0987654",
+      "id": 3
+    },
+    {
+      "name": "Mary Triki",
+      "number": "84848484848",
+      "id": 4
+    },
+    {
+      "name": "John Sephar",
+      "number": "998-098765432",
+      "id": 5
+    }
+  ]
+}
